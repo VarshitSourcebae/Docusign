@@ -14,3 +14,5 @@ Please ensure that the following configurations are updated in your application 
    - **PrivateKeyFile**: The file path for your private key here.
 
 Make sure to save and commit your changes after updating these configurations!
+use this command to create database after changing you connection string
+Update-Database -Project JobModule.Repository -StartupProject JobModule.Api
