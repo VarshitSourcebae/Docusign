@@ -1,0 +1,318 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Api\\JobModule.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Api\\JobModule.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Api\\JobModule.Api.csproj",
+        "projectName": "JobModule.Api",
+        "projectPath": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Api\\JobModule.Api.csproj",
+        "packagesPath": "C:\\Users\\Varshit\\.nuget\\packages\\",
+        "outputPath": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Varshit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Repository\\JobModule.Repository.csproj": {
+                "projectPath": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Repository\\JobModule.Repository.csproj"
+              },
+              "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Services\\JobModule.Services.csproj": {
+                "projectPath": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Services\\JobModule.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Domain\\JobModule.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Domain\\JobModule.Domain.csproj",
+        "projectName": "JobModule.Domain",
+        "projectPath": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Domain\\JobModule.Domain.csproj",
+        "packagesPath": "C:\\Users\\Varshit\\.nuget\\packages\\",
+        "outputPath": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Varshit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Repository\\JobModule.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Repository\\JobModule.Repository.csproj",
+        "projectName": "JobModule.Repository",
+        "projectPath": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Repository\\JobModule.Repository.csproj",
+        "packagesPath": "C:\\Users\\Varshit\\.nuget\\packages\\",
+        "outputPath": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Varshit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Domain\\JobModule.Domain.csproj": {
+                "projectPath": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Domain\\JobModule.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Services\\JobModule.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Services\\JobModule.Services.csproj",
+        "projectName": "JobModule.Services",
+        "projectPath": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Services\\JobModule.Services.csproj",
+        "packagesPath": "C:\\Users\\Varshit\\.nuget\\packages\\",
+        "outputPath": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Varshit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Domain\\JobModule.Domain.csproj": {
+                "projectPath": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Domain\\JobModule.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "DocuSign.eSign.dll": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "QuestPDF": {
+              "target": "Package",
+              "version": "[2025.7.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[112.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E3D30E-AA21-48E5-8609-51D8AB32CA80}|JobModule.Api\\JobModule.Api.csproj|d:\\zenithr_offers_api\\offermanagementmodule\\job_offer_management_module_webapp\\jobmodule.api\\controllers\\joboffercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E3D30E-AA21-48E5-8609-51D8AB32CA80}|JobModule.Api\\JobModule.Api.csproj|solutionrelative:jobmodule.api\\controllers\\joboffercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E3D30E-AA21-48E5-8609-51D8AB32CA80}|JobModule.Api\\JobModule.Api.csproj|d:\\zenithr_offers_api\\offermanagementmodule\\job_offer_management_module_webapp\\jobmodule.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5E3D30E-AA21-48E5-8609-51D8AB32CA80}|JobModule.Api\\JobModule.Api.csproj|solutionrelative:jobmodule.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386255EB-D766-42E6-8227-D3C1A7A1731A}|JobModule.Services\\JobModule.Services.csproj|d:\\zenithr_offers_api\\offermanagementmodule\\job_offer_management_module_webapp\\jobmodule.services\\services\\jobofferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386255EB-D766-42E6-8227-D3C1A7A1731A}|JobModule.Services\\JobModule.Services.csproj|solutionrelative:jobmodule.services\\services\\jobofferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E3D30E-AA21-48E5-8609-51D8AB32CA80}|JobModule.Api\\JobModule.Api.csproj|d:\\zenithr_offers_api\\offermanagementmodule\\job_offer_management_module_webapp\\jobmodule.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E3D30E-AA21-48E5-8609-51D8AB32CA80}|JobModule.Api\\JobModule.Api.csproj|solutionrelative:jobmodule.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386255EB-D766-42E6-8227-D3C1A7A1731A}|JobModule.Services\\JobModule.Services.csproj|d:\\zenithr_offers_api\\offermanagementmodule\\job_offer_management_module_webapp\\jobmodule.services\\commonservices\\docusignauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386255EB-D766-42E6-8227-D3C1A7A1731A}|JobModule.Services\\JobModule.Services.csproj|solutionrelative:jobmodule.services\\commonservices\\docusignauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386255EB-D766-42E6-8227-D3C1A7A1731A}|JobModule.Services\\JobModule.Services.csproj|d:\\zenithr_offers_api\\offermanagementmodule\\job_offer_management_module_webapp\\jobmodule.services\\serviceinterface\\ijobofferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386255EB-D766-42E6-8227-D3C1A7A1731A}|JobModule.Services\\JobModule.Services.csproj|solutionrelative:jobmodule.services\\serviceinterface\\ijobofferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE273BA-D530-4BE4-A957-B319A300D028}|JobModule.Domain\\JobModule.Domain.csproj|d:\\zenithr_offers_api\\offermanagementmodule\\job_offer_management_module_webapp\\jobmodule.domain\\enums\\jobofferstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE273BA-D530-4BE4-A957-B319A300D028}|JobModule.Domain\\JobModule.Domain.csproj|solutionrelative:jobmodule.domain\\enums\\jobofferstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEFA762-5D09-4898-9F80-0DD87DE47F00}|JobModule.Repository\\JobModule.Repository.csproj|d:\\zenithr_offers_api\\offermanagementmodule\\job_offer_management_module_webapp\\jobmodule.repository\\repositories\\jobofferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEFA762-5D09-4898-9F80-0DD87DE47F00}|JobModule.Repository\\JobModule.Repository.csproj|solutionrelative:jobmodule.repository\\repositories\\jobofferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386255EB-D766-42E6-8227-D3C1A7A1731A}|JobModule.Services\\JobModule.Services.csproj|d:\\zenithr_offers_api\\offermanagementmodule\\job_offer_management_module_webapp\\jobmodule.services\\commonservices\\pdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386255EB-D766-42E6-8227-D3C1A7A1731A}|JobModule.Services\\JobModule.Services.csproj|solutionrelative:jobmodule.services\\commonservices\\pdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE273BA-D530-4BE4-A957-B319A300D028}|JobModule.Domain\\JobModule.Domain.csproj|d:\\zenithr_offers_api\\offermanagementmodule\\job_offer_management_module_webapp\\jobmodule.domain\\repointerfaces\\ijobofferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE273BA-D530-4BE4-A957-B319A300D028}|JobModule.Domain\\JobModule.Domain.csproj|solutionrelative:jobmodule.domain\\repointerfaces\\ijobofferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386255EB-D766-42E6-8227-D3C1A7A1731A}|JobModule.Services\\JobModule.Services.csproj|d:\\zenithr_offers_api\\offermanagementmodule\\job_offer_management_module_webapp\\jobmodule.services\\dtos\\docusignsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386255EB-D766-42E6-8227-D3C1A7A1731A}|JobModule.Services\\JobModule.Services.csproj|solutionrelative:jobmodule.services\\dtos\\docusignsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386255EB-D766-42E6-8227-D3C1A7A1731A}|JobModule.Services\\JobModule.Services.csproj|d:\\zenithr_offers_api\\offermanagementmodule\\job_offer_management_module_webapp\\jobmodule.services\\dtos\\jobofferresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386255EB-D766-42E6-8227-D3C1A7A1731A}|JobModule.Services\\JobModule.Services.csproj|solutionrelative:jobmodule.services\\dtos\\jobofferresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE273BA-D530-4BE4-A957-B319A300D028}|JobModule.Domain\\JobModule.Domain.csproj|d:\\zenithr_offers_api\\offermanagementmodule\\job_offer_management_module_webapp\\jobmodule.domain\\entities\\joboffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE273BA-D530-4BE4-A957-B319A300D028}|JobModule.Domain\\JobModule.Domain.csproj|solutionrelative:jobmodule.domain\\entities\\joboffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386255EB-D766-42E6-8227-D3C1A7A1731A}|JobModule.Services\\JobModule.Services.csproj|d:\\zenithr_offers_api\\offermanagementmodule\\job_offer_management_module_webapp\\jobmodule.services\\dtos\\pdfstorageoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386255EB-D766-42E6-8227-D3C1A7A1731A}|JobModule.Services\\JobModule.Services.csproj|solutionrelative:jobmodule.services\\dtos\\pdfstorageoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E3D30E-AA21-48E5-8609-51D8AB32CA80}|JobModule.Api\\JobModule.Api.csproj|d:\\zenithr_offers_api\\offermanagementmodule\\job_offer_management_module_webapp\\jobmodule.api\\jobmodule.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D5E3D30E-AA21-48E5-8609-51D8AB32CA80}|JobModule.Api\\JobModule.Api.csproj|solutionrelative:jobmodule.api\\jobmodule.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386255EB-D766-42E6-8227-D3C1A7A1731A}|JobModule.Services\\JobModule.Services.csproj|d:\\zenithr_offers_api\\offermanagementmodule\\job_offer_management_module_webapp\\jobmodule.services\\dtos\\joboffercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386255EB-D766-42E6-8227-D3C1A7A1731A}|JobModule.Services\\JobModule.Services.csproj|solutionrelative:jobmodule.services\\dtos\\joboffercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386255EB-D766-42E6-8227-D3C1A7A1731A}|JobModule.Services\\JobModule.Services.csproj|d:\\zenithr_offers_api\\offermanagementmodule\\job_offer_management_module_webapp\\jobmodule.services\\dtos\\jobofferupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386255EB-D766-42E6-8227-D3C1A7A1731A}|JobModule.Services\\JobModule.Services.csproj|solutionrelative:jobmodule.services\\dtos\\jobofferupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 967,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobOfferController.cs",
+              "DocumentMoniker": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Api\\Controllers\\JobOfferController.cs",
+              "RelativeDocumentMoniker": "JobModule.Api\\Controllers\\JobOfferController.cs",
+              "ToolTip": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Api\\Controllers\\JobOfferController.cs",
+              "RelativeToolTip": "JobModule.Api\\Controllers\\JobOfferController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T06:08:18.537Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobOfferService.cs",
+              "DocumentMoniker": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Services\\Services\\JobOfferService.cs",
+              "RelativeDocumentMoniker": "JobModule.Services\\Services\\JobOfferService.cs",
+              "ToolTip": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Services\\Services\\JobOfferService.cs",
+              "RelativeToolTip": "JobModule.Services\\Services\\JobOfferService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvycAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:54:23.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobOfferRepository.cs",
+              "DocumentMoniker": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Repository\\Repositories\\JobOfferRepository.cs",
+              "RelativeDocumentMoniker": "JobModule.Repository\\Repositories\\JobOfferRepository.cs",
+              "ToolTip": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Repository\\Repositories\\JobOfferRepository.cs",
+              "RelativeToolTip": "JobModule.Repository\\Repositories\\JobOfferRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAywCUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T12:01:38.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IJobOfferService.cs",
+              "DocumentMoniker": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Services\\ServiceInterface\\IJobOfferService.cs",
+              "RelativeDocumentMoniker": "JobModule.Services\\ServiceInterface\\IJobOfferService.cs",
+              "ToolTip": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Services\\ServiceInterface\\IJobOfferService.cs",
+              "RelativeToolTip": "JobModule.Services\\ServiceInterface\\IJobOfferService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:54:01.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IJobOfferRepository.cs",
+              "DocumentMoniker": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Domain\\RepoInterfaces\\IJobOfferRepository.cs",
+              "RelativeDocumentMoniker": "JobModule.Domain\\RepoInterfaces\\IJobOfferRepository.cs",
+              "ToolTip": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Domain\\RepoInterfaces\\IJobOfferRepository.cs",
+              "RelativeToolTip": "JobModule.Domain\\RepoInterfaces\\IJobOfferRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:49:04.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "JobModule.Api\\appsettings.json",
+              "ToolTip": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Api\\appsettings.json",
+              "RelativeToolTip": "JobModule.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-03T12:06:45.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Api\\Program.cs",
+              "RelativeDocumentMoniker": "JobModule.Api\\Program.cs",
+              "ToolTip": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Api\\Program.cs",
+              "RelativeToolTip": "JobModule.Api\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwEcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T12:07:42.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PDFGenerator.cs",
+              "DocumentMoniker": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Services\\CommonServices\\PDFGenerator.cs",
+              "RelativeDocumentMoniker": "JobModule.Services\\CommonServices\\PDFGenerator.cs",
+              "ToolTip": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Services\\CommonServices\\PDFGenerator.cs",
+              "RelativeToolTip": "JobModule.Services\\CommonServices\\PDFGenerator.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAzwDEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T03:27:38.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocuSignAuthService.cs",
+              "DocumentMoniker": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Services\\CommonServices\\DocuSignAuthService.cs",
+              "RelativeDocumentMoniker": "JobModule.Services\\CommonServices\\DocuSignAuthService.cs",
+              "ToolTip": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Services\\CommonServices\\DocuSignAuthService.cs",
+              "RelativeToolTip": "JobModule.Services\\CommonServices\\DocuSignAuthService.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAswI0AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T10:36:35.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DocuSignSettings.cs",
+              "DocumentMoniker": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Services\\Dtos\\DocuSignSettings.cs",
+              "RelativeDocumentMoniker": "JobModule.Services\\Dtos\\DocuSignSettings.cs",
+              "ToolTip": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Services\\Dtos\\DocuSignSettings.cs",
+              "RelativeToolTip": "JobModule.Services\\Dtos\\DocuSignSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T10:35:04.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobOfferStatus.cs",
+              "DocumentMoniker": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Domain\\Enums\\JobOfferStatus.cs",
+              "RelativeDocumentMoniker": "JobModule.Domain\\Enums\\JobOfferStatus.cs",
+              "ToolTip": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Domain\\Enums\\JobOfferStatus.cs",
+              "RelativeToolTip": "JobModule.Domain\\Enums\\JobOfferStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T13:54:46.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JobOfferResponseDto.cs",
+              "DocumentMoniker": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Services\\Dtos\\JobOfferResponseDto.cs",
+              "RelativeDocumentMoniker": "JobModule.Services\\Dtos\\JobOfferResponseDto.cs",
+              "ToolTip": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Services\\Dtos\\JobOfferResponseDto.cs",
+              "RelativeToolTip": "JobModule.Services\\Dtos\\JobOfferResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:52:55.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JobOffer.cs",
+              "DocumentMoniker": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Domain\\Entities\\JobOffer.cs",
+              "RelativeDocumentMoniker": "JobModule.Domain\\Entities\\JobOffer.cs",
+              "ToolTip": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Domain\\Entities\\JobOffer.cs",
+              "RelativeToolTip": "JobModule.Domain\\Entities\\JobOffer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T06:16:43.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JobModule.Api.http",
+              "DocumentMoniker": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Api\\JobModule.Api.http",
+              "RelativeDocumentMoniker": "JobModule.Api\\JobModule.Api.http",
+              "ToolTip": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Api\\JobModule.Api.http",
+              "RelativeToolTip": "JobModule.Api\\JobModule.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-04T05:37:21.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PdfStorageOptions.cs",
+              "DocumentMoniker": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Services\\Dtos\\PdfStorageOptions.cs",
+              "RelativeDocumentMoniker": "JobModule.Services\\Dtos\\PdfStorageOptions.cs",
+              "ToolTip": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Services\\Dtos\\PdfStorageOptions.cs",
+              "RelativeToolTip": "JobModule.Services\\Dtos\\PdfStorageOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T05:41:45.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JobOfferCreateDto.cs",
+              "DocumentMoniker": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Services\\Dtos\\JobOfferCreateDto.cs",
+              "RelativeDocumentMoniker": "JobModule.Services\\Dtos\\JobOfferCreateDto.cs",
+              "ToolTip": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Services\\Dtos\\JobOfferCreateDto.cs",
+              "RelativeToolTip": "JobModule.Services\\Dtos\\JobOfferCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:52:17.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JobOfferUpdateDto.cs",
+              "DocumentMoniker": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Services\\Dtos\\JobOfferUpdateDto.cs",
+              "RelativeDocumentMoniker": "JobModule.Services\\Dtos\\JobOfferUpdateDto.cs",
+              "ToolTip": "D:\\zenithr_offers_Api\\OfferManagementModule\\Job_Offer_Management_Module_WebApp\\JobModule.Services\\Dtos\\JobOfferUpdateDto.cs",
+              "RelativeToolTip": "JobModule.Services\\Dtos\\JobOfferUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:52:35.497Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
